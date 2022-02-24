@@ -38,6 +38,7 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName"
+        style="@s"
         android:layout_width="338dp"
         android:layout_height="52dp"
         android:layout_marginTop="44dp"
